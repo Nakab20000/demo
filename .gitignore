@@ -1,0 +1,10 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore IDE config files (ตัวอย่าง: PyCharm, VSCode)
+.idea/
+.vscode/
